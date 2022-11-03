@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Software Engineer from Ghana</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnabednego&label=Profile%20views&color=0e75b6&style=flat" alt="johnabednego" /> </p>-->
-
-<p align="center"> <a href=""><img src="https://abednego-portfolio.netlify.app/john.jpg" alt="johnabednego" /></a> </p> 
+<!-- 
+<p align="center"> <a href=""><img src="https://abednego-portfolio.netlify.app/john.jpg" alt="johnabednego" /></a> </p>  -->
 
 - 👨‍💻 All of my projects are available at [http://abednegoportfolio.netlify.app/](http://abednegoportfolio.netlify.app/)
 
