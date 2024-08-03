@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abednego</h1>
 <h3 align="center">A passionate Software Engineer from Ghana</h3>
 
-<p align="center"><kbd><img align="center" src="https://abednego-portfolio.netlify.app/john.jpg" alt="Abednego" width="550" height="450"/></kbd></p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnabednego&label=Profile%20views&color=0e75b6&style=flat" alt="johnabednego" /> </p>-->
 <!-- 
